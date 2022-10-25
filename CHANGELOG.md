@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.1.2](https://github.com/Taump/test-action/compare/v2.1.1...v2.1.2) (2022-10-25)
+
+
+### Bug Fixes
+
+* package.json ([2326439](https://github.com/Taump/test-action/commit/2326439dd3174dd1b1359b6dcc4d2de74e3b254f))
+
 ## [2.1.1](https://github.com/Taump/test-action/compare/v2.1.0...v2.1.1) (2022-10-25)
 
 
