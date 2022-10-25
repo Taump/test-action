@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.1.0](https://github.com/Taump/test-action/compare/v2.0.0...v2.1.0) (2022-10-25)
+
+
+### Features
+
+* new server file ([41ec409](https://github.com/Taump/test-action/commit/41ec409c4d24006dbf774cdf686fb3bcf4669093))
+
 ## [2.0.0](https://github.com/Taump/test-action/compare/v1.0.0...v2.0.0) (2022-10-25)
 
 
