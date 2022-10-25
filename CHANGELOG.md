@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.1.1](https://github.com/Taump/test-action/compare/v2.1.0...v2.1.1) (2022-10-25)
+
+
+### Bug Fixes
+
+* new script ([9325706](https://github.com/Taump/test-action/commit/9325706c267dcd58e7bf9936bc018dd355e658a6))
+
 ## [2.1.0](https://github.com/Taump/test-action/compare/v2.0.0...v2.1.0) (2022-10-25)
 
 
