@@ -1,1 +1,1 @@
-console.log('start server!');
+console.log('start server');
